@@ -2,7 +2,7 @@
 
 ### Step 1:
 Download Wordpress latest version
-* [https://wordpress.org] [DlWp]
+* [https://wordpress.org]
 
 ### Step 2:
 Replace the downloaded wordpress folder with the empty wordpress folder
@@ -40,4 +40,4 @@ $ docker-compose up
 
 ### Step 5:
 Test the result. Wordpress setup file should be available on 
-* [http://localhost:8080] [Local]
+* [http://localhost:8080]
