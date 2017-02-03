@@ -19,7 +19,7 @@ define('DB_NAME', 'website_db');
 define('DB_USER', 'website_user');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'strong_password');
+define('DB_PASSWORD', 'Str0ngPassw0rd');
 
 /** MySQL hostname */
 define('DB_HOST', 'db:3306');
