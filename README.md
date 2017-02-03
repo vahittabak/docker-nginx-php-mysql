@@ -1,4 +1,4 @@
-# Dockerise your Wordpress blog with Nginx, PHP7-FPM and MySQL
+# Dockerize your Wordpress blog with Nginx, PHP7-FPM and MySQL
 
 ### Step 1:
 Download Wordpress latest version
