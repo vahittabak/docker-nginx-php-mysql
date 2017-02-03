@@ -2,7 +2,7 @@
 
 ### Step 1:
 Download Wordpress latest version
-* [https://wordpress.org]
+* [https://wordpress.org/download/]
 
 ### Step 2:
 Replace the downloaded wordpress folder with the empty wordpress folder
